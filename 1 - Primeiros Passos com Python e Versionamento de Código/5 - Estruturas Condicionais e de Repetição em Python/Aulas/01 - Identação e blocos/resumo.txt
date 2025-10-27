@@ -1,1 +1,0 @@
-Nessa aula ele apenas ensinou como funciona a identação do Python.
