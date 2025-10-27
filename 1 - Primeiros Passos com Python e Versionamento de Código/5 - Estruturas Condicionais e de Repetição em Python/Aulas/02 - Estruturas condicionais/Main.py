@@ -37,9 +37,9 @@ def main():
 
     # Exemplo 03:
     # Um menu de opções simples com validação de entrada.
-    print("\n[ 1 ] Ver Saldo")
-    print("[ 2 ] Fazer Depósito")
-    print("[ 3 ] Sair")
+    print("\n1 - Ver Saldo")
+    print("2 - Fazer Depósito")
+    print("3 - Sair")
     opcao = input("Escolha uma opção: ")
 
     if opcao == "1":
